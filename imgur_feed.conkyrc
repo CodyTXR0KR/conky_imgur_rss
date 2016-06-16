@@ -28,7 +28,6 @@ xftfont open_sansbold:size=12
 uppercase no
 
 own_window_argb_visual yes
-own_window_argb_value 198
 #own_window_colour 000000
 
 # Defining colors
@@ -40,7 +39,6 @@ color1 181817
 color2 85BF25
 # Frame Color
 color3 2B2B2B
-
 
 TEXT
 ${image icon.png}${voffset 10}${goto 85} Most Viral RSS

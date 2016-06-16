@@ -14,7 +14,7 @@ IMAGE_CACHE = os.path.join(os.path.expanduser('~'), '.imgur-cache')
 RSS_URL = 'http://imgur.com/rss'
 
 # Panel options
-COL_HEIGHT = 6  # Num Vert Images
+COL_HEIGHT = 3  # Num Vert Images
 COL_WIDTH = 3   # Num Hor Images
 
 """
