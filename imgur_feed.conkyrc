@@ -24,12 +24,25 @@ draw_graph_borders no
 
 override_utf8_locale yes
 use_xft yes
+xftfont open_sansbold:size=12
 uppercase no
 
-# Header with base system info
 own_window_argb_visual yes
 own_window_argb_value 198
 #own_window_colour 000000
 
+# Defining colors
+default_color FFFFFF
+# Imgur Colors
+# Background Grey
+color1 181817
+# Upvote Green
+color2 85BF25
+# Frame Color
+color3 2B2B2B
+
+
 TEXT
+${image icon.png}${voffset 10}${goto 85} Most Viral RSS
+${voffset -5}${stippled_hr 1}
 ${execpi 300 ./rss_feed.py}
