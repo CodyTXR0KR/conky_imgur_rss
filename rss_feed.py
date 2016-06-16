@@ -83,7 +83,8 @@ def conky_output(rss_data):
     for x in range(len(rss_data)):
         item = rss_data[x]
         if x == 0:  # Start COLUMN 1
-            x_pos = last_x
+            x_pos = last_x + PADDING
+            last_x = x_pos
             y_pos = last_y + MARGIN_TOP
             last_y = y_pos
             print(render_thumbnail.format(
