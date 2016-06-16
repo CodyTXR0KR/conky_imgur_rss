@@ -25,4 +25,6 @@ Panel Preview
 Desktop Preview
 ^^^^^^^^^^^^^^^
 
-.. image:: http://i.imgur.com/uN0U002.png
+.. image:: http://i.imgur.com/Dk4j3O8.png
+
+.. image:: http://i.imgur.com/6iPeWPm.png
