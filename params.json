@@ -1,0 +1,6 @@
+{
+  "name": "Conky imgur rss",
+  "tagline": "Desktop widget for Conky leveraging the Imgur.com RSS feed",
+  "body": "Imgur Widget for Conky\r\n======================\r\nConnect Conky to the Imgur RSS feed\r\n\r\nDeveloper\r\n---------\r\nDeveloped and maintained by Cody Rocker (cody.rocker.83@gmail.com).\r\n\r\nRequirements\r\n------------\r\n* **Python 3.4.3**\r\n* `feedparser <https://pypi.python.org/pypi/feedparser>`_\r\n* `conky <https://github.com/brndnmtthws/conky>`_\r\n\r\nRecommended\r\n^^^^^^^^^^^\r\n\r\n* `conky manager <http://www.webupd8.org/2014/06/conky-manager-gets-revamped-ui-new.html>`_\r\n\r\nPanel Preview\r\n^^^^^^^^^^^^^\r\n\r\n.. image:: https://github.com/CodyTXR0KR/conky_imgur_rss/blob/master/imgur_feed.conkyrc.png\r\n\r\nDesktop Preview\r\n^^^^^^^^^^^^^^^\r\n\r\n.. image:: http://i.imgur.com/Dk4j3O8.png\r\n\r\n.. image:: http://i.imgur.com/6iPeWPm.png",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
