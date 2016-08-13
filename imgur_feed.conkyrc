@@ -1,5 +1,5 @@
 background yes
-update_interval 1
+update_interval 300
 
 double_buffer yes
 text_buffer_size 2048
@@ -8,11 +8,13 @@ gap_x 5
 gap_y 0
 minimum_size 325 350
 maximum_width 325
+
 own_window yes
+own_window_argb_visual yes
 own_window_type normal
 own_window_transparent yes
-#own_window_class conky-semi
-own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+
 border_inner_margin 0
 border_outer_margin 0
 alignment top_right
@@ -22,12 +24,11 @@ draw_outline no
 draw_borders no
 draw_graph_borders no
 
-override_utf8_locale yes
 use_xft yes
+xftalpha 0.8
 xftfont open_sansbold:size=12
 uppercase no
 
-own_window_argb_visual yes
 #own_window_colour 000000
 
 # Defining colors
