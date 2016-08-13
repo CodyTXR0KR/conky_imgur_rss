@@ -21,10 +21,3 @@ Panel Preview
 ^^^^^^^^^^^^^
 
 .. image:: https://github.com/CodyTXR0KR/conky_imgur_rss/blob/master/imgur_feed.conkyrc.png
-
-Desktop Preview
-^^^^^^^^^^^^^^^
-
-.. image:: http://i.imgur.com/Dk4j3O8.png
-
-.. image:: http://i.imgur.com/6iPeWPm.png
